@@ -1,0 +1,107 @@
+DATE,SITE,HABITAT,SPECIES,SNOUT [cm],HEAD [cm],TRUNK [cm],SEX [m/f],PREGNANT [y/n],DEPTH
+41145,379,Pencil Urchin,H.spinosisimus,0.5,0.5,2.5,F,,12
+41144,374,Pencil Urchin,H.spinosisimus,1,0.5,3,F,,10
+41142,371,Sponge,H.spinosisimus,1,1.5,6,M,N,8.6
+41142,259,Shell,H.spinosisimus,3,2.5,8,M,Y,9
+41148,120,Pencil Urchin,H.spinosisimus,0.5,0.35,3,F,,11
+41145,117,Pencil Urchin,H.spinosisimus,1,1,4.5,F,,11
+41144,88,Pencil Urchin,H.spinosisimus,1,1,3.5,M,N,12
+40807,469,Shell,H.spinosisimus,1,1,6,M,N,12.4
+40807,469,Pencil Urchin,H.spinosisimus,1,1,4,M,N,12
+41177,445,Pencil Urchin,H.spinosisimus,0.5,0.5,1,F,,11
+41177,445,Pencil Urchin,H.spinosisimus,0.5,1,3,F,,11
+41177,445,Pencil Urchin,H.spinosisimus,1,1.5,4,F,,11.3
+41163,399,Pencil Urchin,H.spinosisimus,1,1,5.5,M,N,8
+41163,399,Sponge,H.spinosisimus,1.75,2.25,7,M,N,8.5
+41176,290,Shell,H.spinosisimus,1.5,1.5,5,M,N,10.1
+41176,290,Pencil Urchin,H.spinosisimus,1,1,4,M,N,10.5
+41178,270,Other,H.spinosisimus,1,1,5,M,Y,12.7
+41178,270,Shell,H.spinosisimus,1.2,1.5,5,F,,12.7
+41170,201,Pencil Urchin,H.spinosisimus,1,1,4.5,F,,9.5
+41170,201,Pencil Urchin,H.spinosisimus,1.5,1,6,M,N,8.5
+41170,145,Pencil Urchin,H.spinosisimus,0.8,1,3,M,N,9
+41197,83,Pencil Urchin,H.spinosisimus,1.4,1,5,F,,24
+41197,83,Pencil Urchin,H.spinosisimus,1.2,1.5,5,F,,23
+41213,456,Pencil Urchin,H.spinosisimus,0.5,0.75,2.5,F,,8
+41213,425,Pencil Urchin,H.spinosisimus,1,1.5,4,F,,7.2
+41183,335,Pencil Urchin,H.spinosisimus,1.5,1.5,5,F,,16.5
+41183,335,Pencil Urchin,H.spinosisimus,1,1.5,2.5,J,,16.3
+41212,301,Sand,H.spinosisimus,0.5,1,7,F,,14
+41233,290,Pencil Urchin,H.spinosisimus,1.5,1.5,4.5,F,,11
+41226,218,Pencil Urchin,H.spinosisimus,1,1,4,F,,17
+41235,198,Pencil Urchin,H.spinosisimus,1,0.5,5,F,,7.7
+41235,198,Pencil Urchin,H.spinosisimus,0.5,1,3,F,,7.6
+41235,198,Pencil Urchin,H.spinosisimus,2,2,7,F,,7.7
+41235,198,Pencil Urchin,H.spinosisimus,,,1,J,,7.7
+41235,150,Pencil Urchin,H.spinosisimus,1.5,1,7,F,,11.7
+41220,144,Clam,H.spinosisimus,1.5,2,9,M,N,11.6
+41240,45,Pencil Urchin,H.spinosisimus,0.5,0.4,1,J,,18
+41240,425,Pencil Urchin,H.spinosisimus,1,1.2,3.5,F,,7
+41240,425,Pencil Urchin,H.spinosisimus,1,1.5,5,F,,7.5
+41235,198,Pencil Urchin,H.spinosisimus,1,0.5,5,F,,7.7
+41235,198,Pencil Urchin,H.spinosisimus,0.5,1,3,F,,7.6
+41235,198,Pencil Urchin,H.spinosisimus,2,2,7,F,,7.7
+41235,198,Pencil Urchin,Juvenile,,,1,J,,7.7
+41218,386,Pencil Urchin,H.spinosisimus,1.5,1.2,6,M,Y,10
+41234,341,Pencil Urchin,H.spinosisimus,1,1,3.5,F,,8
+41225,333,Pencil Urchin,H.spinosisimus,0.3,0.3,0.8,J,,17
+41233,301,Pencil Urchin,H.spinosisimus,1.2,1,4,F,,16.3
+41262,354,Pencil Urchin,H.spinosisimus,1.5,1.8,7,F,,8
+41263,371,Pencil Urchin,H.spinosisimus,0.5,0.5,2,J,,7.9
+41264,53,Pencil Urchin,H.spinosisimus,1,1,4,F,,8
+41269,116,Pencil Urchin,H.spinosisimus,1,0.5,5,F,,11.2
+41269,116,Pencil Urchin,H.spinosisimus,1,0.5,6,M,,10.1
+41270,201,Pencil Urchin,H.spinosisimus,1,0.5,3,M,,10
+41270,117,Pencil Urchin,H.spinosisimus,1.5,1,5,F,,12
+41270,117,Pencil Urchin,H.spinosisimus,1,1,4.5,F,,12
+41270,117,Pencil Urchin,Juvenile,<1,<1,1,J,,12
+41270,117,Pencil Urchin,Juvenile,<1,<1,1,J,,12
+41246,331,Pencil Urchin,Juvenile,0.3,0.4,0.8,J,,15
+41246,331,Pencil Urchin,H.spinosisimus,1,0.8,2.7,F,,16
+41246,331,Pencil Urchin,H.kuda,1,0.5,4,F,,15
+41247,197,Pencil Urchin,H.spinosisimus,0.5,0.25,2.5,J,,16
+41249,254,Pencil Urchin,H.spinosisimus,1.5,1,4.5,M,N,11
+41250,145,Pencil Urchin,H.spinosisimus,1.5,2.5,6,M,N,11
+41250,145,Pencil Urchin,H.spinosisimus,1,1,3,M,N,11
+41250,145,Pencil Urchin,H.spinosisimus,2,1.5,5,F,,11
+41253,249,Pencil Urchin,H.spinosisimus,0.5,0.5,1,J,,20
+41254,400,Rock,H.spinosisimus,1.5,2,5,F,,9
+41255,307,Pencil Urchin,H.spinosisimus,0.8,0.8,3.5,F,,15
+41255,307,Pencil Urchin,Juvenile,0.5,0.5,1.5,J,,16
+41257,177,Pencil Urchin,H.spinosisimus,1,1,3,M,N,8
+41257,177,Pencil Urchin,Juvenile,0.2,0.3,1,J,,7
+41261,1,Pencil Urchin,Juvenile,0.4,0.8,1.4,J,,19
+41276,376,Sponge,H.spinosisimus,17,12,5,F,,11
+41276,376,Seapen,Juvenile,,,0.5,J,,11
+41277,445,Pencil Urchin,H.spinosisimus,1,1,3,M,N,9
+41281,404,Pencil Urchin,H.spinosisimus,1,1,4,M,N,11.9
+41281,404,Sponge,H.spinosisimus,2,2,6.3,M,Y,12
+41281,404,Pencil Urchin,H.spinosisimus,0.5,0.5,1.5,F,,12
+41282,214,Pencil Urchin,Juvenile,0.4,0.5,1,J,,15
+41282,214,Pencil Urchin,Juvenile,0.5,0.5,1.2,J,,15
+41288,238,Pencil Urchin,H.spinosisimus,1.5,1.7,6.8,M,Y,9
+41291,227,Pencil Urchin,Juvenile,,,,J,,7
+41291,227,Pencil Urchin,Juvenile,,,,J,,7
+41291,227,Pencil Urchin,H.spinosisimus,1,2.5,4,F,,7
+41291,227,Pencil Urchin,H.spinosisimus,1,2,4,F,,7
+41295,309,Sponge,H.spinosissimus,0.5,0.5,1.75,J,,6.5
+41297,89,Pencil Urchin,H.spinosissimus,0.5,0.5,1,J,,10
+41297,406,Pencil Urchin,H.spinosissimus,1,1.2,2,F,,12.1
+41298,534,Pencil Urchin,H.spinosissimus,,,,J,,10
+41298,534,Pencil Urchin,H.spinosissimus,,,,J,,10
+41298,534,Pencil Urchin,H.spinosissimus,1,2,5.5,M,Y,10
+41299,540,Pencil Urchin,H.spinosissimus,1.5,1.2,4,F,,12
+41299,534,Pencil Urchin,H.spinosissimus,1.2,2,3.5,F,,7
+41309,225,Pencil Urchin,Juvenile,0.5,1,2,J,,7
+41309,225,Pencil Urchin,Juvenile,0.2,0.5,1,J,,7
+41313,267,Other,H.spinosissimus,1,2,4,F,,10
+41313,283,Other,H.spinosissimus,1,2,4,M,Y,7
+41317,541,Pencil Urchin,H.spinosissimus,0.4,0.8,2.5,M,N,10
+41318,314,Pencil Urchin,Juvenile,0.5,0.6,1.8,J,,8
+41318,314,Other,H.kelloggi,1,0.8,4.5,F,,8
+41319,383,Pencil Urchin,H.spinosissimus,2,3,4.5,F,,10
+41319,503,Pencil Urchin,Juvenile,0.3,0.4,0.8,J,,7
+41330,506,Pencil Urchin,Juvenile,0.5,1,2,J,,8
+41330,283,Pencil Urchin,H.spinosissimus,2,3,6,F,,7
+41332,565,Sand,H.spinosissimus,1.3,1.5,4,F,,13
+41333,226,Pencil Urchin,H.spinosissimus,1,1,3,F,,7
