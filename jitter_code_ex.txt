@@ -1,0 +1,26 @@
+"""ORIGINAL"""
+for j in selected:
+        df = sel[sel['School'] == j]
+        jitter = 0.1
+        grade = [h + np.random.uniform(-jitter, jitter) for h in df['Interim Grade']]
+        if df.empty:
+            pass
+        else:
+            axes[x].scatter(grade, df['Percent'], label = j.format(), c = color[col], s = 75, alpha = 0.9)
+            col += 1
+
+"""MODIFIED"""
+for j in selected:
+
+	#Filter for plotting type
+        df = sel[sel['School'] == j]
+
+	#Jitter the x & y-axis
+        jitter_lat = 0.1
+	jitter_long = 0.1
+        latitude = [h + np.random.uniform(-jitter_lat, jitter_lat) for h in df['LATITUDE']]
+	longitude = [h + np.random.uniform(-jitter_long, jitter_long) for h in df['LONGITUDE']]
+        
+	#Plot as usual. Replace x and y fields with new jittered fields
+        axes[x].scatter(grade, df['Percent'], label = j.format(), c = color[col], s = 75, alpha = 0.9)
+        ...
