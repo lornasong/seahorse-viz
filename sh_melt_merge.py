@@ -10,7 +10,7 @@ environment = ['PENCIL_URCHIN', 'HYDROZOAN', 'SOFT_CORAL', 'ANEMONE', 'SPONGE_SO
 
 merge = pd.merge(dive,  seahorse,  how = "left",  on = ["SITE",  "DATE"])
 
-#merge.to_csv(r'C:\Users\lsong\Desktop\mere.csv')
+#merge.to_csv(r'C:\Users\lsong\Desktop\merge.csv')
 
 melt = pd.melt(merge, id_vars = ['DATE',  'SITE', 'LONGITUDE',  'LATITUDE', 'DEPTH', 'SST', 'BT', 'VISIBILITY', 'SEAHORSES'], value_vars = environment)
 
