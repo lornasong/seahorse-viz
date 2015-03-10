@@ -1,4 +1,4 @@
-sh-data-format
+seahorse-visualization
 ==============
 
 Transform sh data in MCC's original seahorse data source into a format for visualizing (pandas & matplotlib). Seahorse data set includes observed seahorses' sex, measurements, divesite number, and holdfasts. Dive data set includes divesite GPS coordinates, observed habitat (shell coverage, soft corals, pencil urchins, etc), depth, and more.
